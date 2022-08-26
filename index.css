@@ -1,0 +1,49 @@
+body
+        {
+        background-color:sandybrown ;
+        }
+    .clock 
+        {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%) translateY(-50%);
+        color: #17D4FE;
+        font-size: 60px;
+        font-family: Orbitron;
+        letter-spacing: 7px;
+        }
+    .text1
+        {
+        position: relative;
+        top: 50px;
+        text-align: center;
+        font-size: 50px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        letter-spacing: 7px;
+        }
+    .text2
+        {
+        position: relative;
+        top: 50px;
+        text-align: center;
+        font-size: 40px;
+        font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        letter-spacing: 7px;
+        margin-right: 100px;
+        margin-left: 100px;
+        }
+    .counter-display
+    {
+        margin-left: 910px;
+        margin-top: 480px;
+    }
+    .counter-minus
+    {
+        margin-left: 900px;
+        
+    }
+    .counter-plus
+    {
+        margin-left: 10px;
+    }
